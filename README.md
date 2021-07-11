@@ -23,22 +23,22 @@
 ### Après plusieurs postes dans le secteur de l'hotellerie restauration j'ai repris mes études et obtenu un titre de developpeur web et web mobile
 ### Je suis curieux de nature, et aime comprendre le monde qui m'entoure.
 
-#### <img src="https://image.flaticon.com/icons/png/512/3176/3176369.png" alt="projects" width="40" height="40"/> J'ai pu développer mes compétences au travers de projets divers :
+#### <img src="https://image.flaticon.com/icons/png/512/3176/3176369.png" alt="projects" width="40" height="40"/>  J'ai pu développer mes compétences au travers de projets divers :
 - Boutique en ligne de livre d'occasion
 - Plateforme de mise en relation pour du depannage informatique
 - Forum de discussion
 - web scrapping d'article scientifique
 
-#### <img src="https://image.flaticon.com/icons/png/512/2232/2232688.png" alt="learning" width="40" height="40"/> Je suis actuellement en train de me former aux technologies blockchains et notamment Solidity et web3 js pour pouvoir développer des contrats intelligents de diverses natures:
+#### <img src="https://image.flaticon.com/icons/png/512/2232/2232688.png" alt="learning" width="40" height="40"/>  Je suis actuellement en train de me former aux technologies blockchains et notamment Solidity et web3 js pour pouvoir développer des contrats intelligents de diverses natures:
 
   - Blockchain et jeux videos : par la tokenisation des items en jeux
   - Blockchain et contenu multimédia : pour protéger et valoriser le travail des auteurs indépendants et faciliter des échanges sécurisé rapide et sans contraintes 
   - Blockchain et supply chain : pour faciliter la transparence et amener de la valeur dans la chaine de production jusqu'au consommateur final
   - Blockchain et finance : pour desintermédier les échange, casser les monopoles et permettre le developpemnt de services innovants
 
-#### <img src="https://image.flaticon.com/icons/png/512/1165/1165187.png" alt="football" width="40" height="40"/> Je travail actuellement sur une plateforme de paris en ligne ... sur la blockchain evidemment
+#### <img src="https://image.flaticon.com/icons/png/512/1165/1165187.png" alt="football" width="40" height="40"/>  Je travail actuellement sur une plateforme de paris en ligne ... sur la blockchain evidemment
 
   
-#### Je compte prochainement aborder la 3D avec la librarire Three.js 
+#### <img src="https://image.flaticon.com/icons/png/512/3124/3124850.png" alt="3d" width="40" height="40"/>  Je compte prochainement aborder la 3D avec la librarire Three.js 
 </section>
 
