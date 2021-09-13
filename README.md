@@ -17,8 +17,10 @@
 <section>
 
 <h1 align="center">Salut je m'appelle Antoine</h1>
+  
+<h3 align="center"><a href="https://antoine-le-guillou.herokuapp.com/#contact">ME CONTACTER</a></h3>
 
-<h3 align="center">Je suis passionné par le numérique et les nouvelles technologies</h1>
+<h3>Je suis passionné par le numérique et les nouvelles technologies</h3>
 
 ### Après plusieurs postes dans le secteur de l'hotellerie restauration j'ai repris mes études et obtenu un titre de developpeur web et web mobile
 ### Je suis curieux de nature, et aime comprendre le monde qui m'entoure.
@@ -28,8 +30,7 @@
 - Plateforme de mise en relation pour du depannage informatique
 - Forum de discussion
 - web scrapping d'article scientifique
-  
-#### [PRENDRE CONTACT](https://antoine-le-guillou.herokuapp.com/)
+ 
 
 #### <img src="https://image.flaticon.com/icons/png/512/2232/2232688.png" alt="learning" width="40" height="40"/>  Je suis actuellement en train de me former aux technologies blockchains et notamment Solidity et web3 js pour pouvoir développer des contrats intelligents de diverses natures:
 
