@@ -28,6 +28,8 @@
 - Plateforme de mise en relation pour du depannage informatique
 - Forum de discussion
 - web scrapping d'article scientifique
+  
+#### [PRENDRE CONTACT](https://antoine-le-guillou.herokuapp.com/)
 
 #### <img src="https://image.flaticon.com/icons/png/512/2232/2232688.png" alt="learning" width="40" height="40"/>  Je suis actuellement en train de me former aux technologies blockchains et notamment Solidity et web3 js pour pouvoir développer des contrats intelligents de diverses natures:
 
