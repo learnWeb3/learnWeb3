@@ -25,7 +25,7 @@
 ### Après plusieurs postes dans le secteur de l'hotellerie restauration j'ai repris mes études et obtenu un titre de developpeur web et web mobile
 ### Je suis curieux de nature, et aime comprendre le monde qui m'entoure.
 
-#### <img src="https://cdn-icons.flaticon.com/png/512/1207/premium/1207441.png?token=exp=1650883304~hmac=069dc62540a83afbabe6cac0f06708e9" alt="projects" width="40" height="40"/>  J'ai pu développer mes compétences au travers de projets divers :
+#### <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-project-project-management-flaticons-flat-flat-icons.png" alt="projects" width="40" height="40"/>  J'ai pu développer mes compétences au travers de projets divers :
 - Boutique en ligne de livre d'occasion
 - Plateforme de mise en relation pour du depannage informatique
 - Forum de discussion
@@ -40,6 +40,6 @@
   - Blockchain et finance : pour desintermédier les échange, casser les monopoles et permettre le developpemnt de services innovants
 
   
-#### <img src="https://cdn-icons.flaticon.com/png/512/927/premium/927832.png?token=exp=1650883387~hmac=63146e2dd12c66496c593b15bf5f7914" alt="3d" width="40" height="40"/>  Je compte prochainement aborder la 3D avec la librarire Three.js 
+#### <img src="https://img.icons8.com/color/344/3d-glasses.png" alt="3d" width="40" height="40"/>  Je compte prochainement aborder la 3D avec la librarire Three.js 
 </section>
 
